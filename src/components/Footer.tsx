@@ -82,7 +82,7 @@ export default function Footer() {
               © {currentYear} Archibald Linux Project. All rights reserved.
             </p>
             <p className="text-slate-500 text-sm">
-              Built with passion for the Linux community
+              Built with passion by a furry :3
             </p>
           </div>
         </div>
