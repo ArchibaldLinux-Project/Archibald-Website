@@ -35,7 +35,8 @@ export default function Community() {
   const contributors = [
     { name: 'RasperryPy', role: 'Core Developer', avatar: '👩‍💻' },
     { name: 'RasperryPy', role: 'Documentation', avatar: '👨‍📚' }
-    ]
+  ]
+
   return (
     <section id="community" className="py-20 bg-slate-900">
       <div className="section-container">
