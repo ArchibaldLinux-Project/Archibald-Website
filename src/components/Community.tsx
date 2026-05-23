@@ -33,11 +33,9 @@ export default function Community() {
   ]
 
   const contributors = [
-    { name: 'Sarah Chen', role: 'Core Developer', avatar: '👩‍💻' },
-    { name: 'Marcus Johnson', role: 'UI/UX Designer', avatar: '👨‍🎨' },
-    { name: 'Alex Kumar', role: 'Documentation', avatar: '👨‍📚' },
-    { name: 'Emma Wilson', role: 'Community Manager', avatar: '👩‍💼' },
-  ]
+    { name: 'RasperryPy', role: 'Core Developer', avatar: '👩‍💻' },
+
+    { name: 'RasperryPy', role: 'Documentation', avatar: '👨‍📚' }
 
   return (
     <section id="community" className="py-20 bg-slate-900">
