@@ -15,7 +15,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-xl text-slate-300 max-w-2xl mx-auto mb-4">
-          A modern, lightweight Linux distribution built on Arch Linux. Designed for users who value simplicity, performance, and control.
+          When Arch Linux became begginer freindly (we all love tux)
         </p>
 
         <p className="text-slate-400 max-w-2xl mx-auto mb-12">
