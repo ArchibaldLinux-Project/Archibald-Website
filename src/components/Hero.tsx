@@ -24,7 +24,7 @@ export default function Hero() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
           <a
-            href="#download"
+            href="https://drive.google.com/file/d/1x7BqjMZR45t3ex8plxozviLyUWoZMq8G/view?usp=drive_link"
             className="btn-primary inline-flex items-center justify-center gap-2 group"
           >
             <Download size={20} />
