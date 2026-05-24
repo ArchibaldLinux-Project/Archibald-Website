@@ -15,22 +15,25 @@ export default function Hero() {
         </h1>
 
         <p className="text-xl text-slate-300 max-w-2xl mx-auto mb-4">
-          When Arch Linux became begginer freindly (we all love tux)
+          When Arch Linux became beginner friendly (we all love tux)
         </p>
 
         <p className="text-slate-400 max-w-2xl mx-auto mb-12">
           Experience the power of Arch Linux with a polished, beginner-friendly installer and pre-configured tools for an optimal out-of-the-box experience.
         </p>
 
-        <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+        <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
             href="https://drive.google.com/file/d/1x7BqjMZR45t3ex8plxozviLyUWoZMq8G/view?usp=drive_link"
+            target="_blank"
+            rel="noopener noreferrer"
             className="btn-primary inline-flex items-center justify-center gap-2 group"
           >
             <Download size={20} />
             Download Now
             <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
           </a>
+
           <a
             href="#docs"
             className="btn-secondary inline-flex items-center justify-center gap-2"
@@ -39,7 +42,7 @@ export default function Hero() {
           </a>
         </div>
 
-        <div className="text-slate-400 text-sm">
+        <div className="text-slate-400 text-sm mt-8">
           Latest Version: <span className="text-white font-semibold">1.0.0</span> • Free & Open Source
         </div>
       </div>
