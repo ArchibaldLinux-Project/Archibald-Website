@@ -6,14 +6,14 @@ export default function Community() {
       icon: Github,
       name: 'GitHub',
       description: 'View source code, report issues, and contribute',
-      link: 'https://github.com/archibald-linux',
+      link: 'https://github.com/ArchibaldLinux-Project/Archibald-OS/',
       color: 'text-slate-300'
     },
     {
       icon: MessageCircle,
       name: 'Discord',
       description: 'Join our community chat for support and discussion',
-      link: '#',
+      link: 'https://discord.gg/uWQSWEVnat',
       color: 'text-indigo-400'
     },
     {
@@ -27,7 +27,7 @@ export default function Community() {
       icon: Users,
       name: 'Contributors',
       description: 'Become a contributor and help improve Archibald',
-      link: '#',
+      link: 'https://github.com/ArchibaldLinux-Project',
       color: 'text-cyan-400'
     },
   ]
@@ -74,7 +74,7 @@ export default function Community() {
             Archibald is built by the community, for the community. Whether you're a developer, designer, writer, or just an enthusiast, there are many ways to contribute and help shape the future of Archibald Linux.
           </p>
           <div className="flex justify-center">
-            <a href="#" className="btn-primary inline-flex items-center gap-2">
+            <a href="https://github.com/ArchibaldLinux-Project/Archibald-Documentation/" className="btn-primary inline-flex items-center gap-2">
               View Contributing Guidelines
             </a>
           </div>
